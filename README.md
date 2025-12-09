@@ -14,7 +14,7 @@ Autonomous pathfinding and collision detection; built in SolidWorks with optimiz
 *Tech: SolidWorks, MATLAB, C++*  
 [View Details](Simulation%20of%20Maze%20Solving%20Robot/README.md)
 
-### [Full-Stack Tourist Guide Application](/Tourist-Guide-App)
+### [Full-Stack Tourist Guide Application](/Full-Stack%20Tourist%20Guide%20Application)
 Python/MySQL full-stack app for structured data management and automated tourist info updates.  
 *Tech: Python, MySQL, HTML*  
 [View Details](Full-Stack%20Tourist%20Guide%20Application/README.md)
