@@ -17,7 +17,7 @@ Autonomous pathfinding and collision detection; built in SolidWorks with optimiz
 ### [Full-Stack Tourist Guide Application](/Tourist-Guide-App)
 Python/MySQL full-stack app for structured data management and automated tourist info updates.  
 *Tech: Python, MySQL, HTML*  
-[View Details].(Full-Stack Tourist Guide Application/README.md)
+[View Details](Full-Stack%20Tourist%20Guide%20Application/README.md)
 
 ## About Me
 - B.E. Robotics & Automation, JSSATE Bengaluru (CGPA 7.6, 2025)
