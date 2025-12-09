@@ -7,7 +7,7 @@ Results-driven Robotics Engineer specializing in embedded systems, ROS, and sens
 ### [Surveillance Robot](/Surveillance-Robot)
 Multi-sensor robot with IMU/laser integration for real-time target detection, tracking, and automated threat response via sensor fusion algorithms.  
 *Tech: ROS, Arduino, Python*  
-[View Details](Surveillance-Robot/README.md)
+[View Details] (Surveillance-Robot/README.md)
 
 ### [Simulation of Maze Solving Robot](/Maze-Solving-Simulation)
 Autonomous pathfinding and collision detection; built in SolidWorks with optimization-based route planning.  
