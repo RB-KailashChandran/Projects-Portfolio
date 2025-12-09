@@ -1,4 +1,4 @@
-Summary-
+Summary:
 The project presents a comprehensive simulation of an autonomous maze-solving robot capable of navigating complex environments using sensor integration and algorithmic decision-making. 
 It evaluates multiple pathfinding strategies, including DFS, BFS, and A*, to analyze performance trade-offs in accuracy and computational efficiency. 
 The simulation framework enables safe, cost-effective testing while supporting iterative refinement of robot behavior and control logic. 
