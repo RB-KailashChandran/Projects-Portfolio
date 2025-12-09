@@ -9,7 +9,7 @@ Multi-sensor robot with IMU/laser integration for real-time target detection, tr
 *Tech: ROS, Arduino, Python*  
 [View Details](Surveillance-Robot/README.md)
 
-### [Simulation of Maze Solving Robot](/Simulation of Maze Solving Robot)
+### [Simulation of Maze Solving Robot](/Simulation-of-Maze-Solving-Robot)
 Autonomous pathfinding and collision detection; built in SolidWorks with optimization-based route planning.  
 *Tech: SolidWorks, MATLAB, C++*  
 [View Details](Simulation%20of%20Maze%20Solving%20Robot/README.md)
