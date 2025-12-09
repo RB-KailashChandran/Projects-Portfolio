@@ -12,7 +12,7 @@ Multi-sensor robot with IMU/laser integration for real-time target detection, tr
 ### [Simulation of Maze Solving Robot](/Maze-Solving-Simulation)
 Autonomous pathfinding and collision detection; built in SolidWorks with optimization-based route planning.  
 *Tech: SolidWorks, MATLAB, C++*  
-[View Details](Maze-Solving-Simulation/README.md)
+[View Details](Simulation%20of%20Maze%20Solving%20Robot/README.md)
 
 ### [Full-Stack Tourist Guide Application](/Tourist-Guide-App)
 Python/MySQL full-stack app for structured data management and automated tourist info updates.  
